@@ -1,3 +1,14 @@
+# miwok-translator-old
+
+Developed alongside udemy tutorial from scratch.
+
+https://classroom.udacity.com/courses/ud839/lessons/7633778648/concepts/75563354790923#
+
+Through this app I learned how to properly utilize list views and supply data through an adapter, how to handle intents to other activities, how to use audio resources in an android app, and how to design applications using the material design guidelines.
+
+Continuing from this app in project miwok-translator, I switched from using multiple activities to having just one activity holding multiple fragments. These fragments can be switched between through swiping left and right (using the view pager) or tapping tabs at the top of the screen.
+
+
 Miwok App
 ===================================
 
@@ -45,4 +56,4 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-# miwok-translator-old
+
